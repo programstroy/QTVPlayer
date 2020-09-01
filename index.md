@@ -21,17 +21,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Структура формата плейлиста ChannelsList.xml
 ```markdown
 <ListElement>
-  <channel_id>фиксированный_номер_канала</channel_id>
+  <channel_id>850</channel_id>
   <caption>Первый канал</caption>
   <source>http://internet_path/streaming_playlist.m3u8</source>
   <cover>qrc:/covers/850.png</cover>
 </ListElement>
-  
+```  
 channel_id - фиксированный номер канала (не менять!!!)
-
 caption - наименование канала
-
-source - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)</p><p><b>&lt;cover&gt;</b> - логотип (предустановлен 521 канал)</p><p>Приложение не содержит ссылок на интелектуальную собственность третьих лиц.</p><p>Ссылки m3u8 необходимо подставить в текущий плейлист вручную</p>
+source - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)
+cover - логотип (qrc:/covers/NNN.png, где NNN - channel_id)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
