@@ -1,0 +1,4144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListModel>
+    <ListElement>
+        <channel_id>713</channel_id>
+        <caption>Eurosport 1</caption>
+        <source></source>
+        <cover>qrc:/covers/713.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>714</channel_id>
+        <caption>Fine Living Network</caption>
+        <source></source>
+        <cover>qrc:/covers/714.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>715</channel_id>
+        <caption>VH1 European</caption>
+        <source></source>
+        <cover>qrc:/covers/715.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>717</channel_id>
+        <caption>МИР</caption>
+        <source></source>
+        <cover>qrc:/covers/717.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>717</channel_id>
+        <caption>Мир HD</caption>
+        <source></source>
+        <cover>qrc:/covers/717.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>717</channel_id>
+        <caption>Mir</caption>
+        <source></source>
+        <cover>qrc:/covers/717.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>726</channel_id>
+        <caption>Bloomberg</caption>
+        <source></source>
+        <cover>qrc:/covers/726.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>732</channel_id>
+        <caption>Москва. Доверие</caption>
+        <source></source>
+        <cover>qrc:/covers/732.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>734</channel_id>
+        <caption>Animal Planet</caption>
+        <source></source>
+        <cover>qrc:/covers/734.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>736</channel_id>
+        <caption>Viasat History</caption>
+        <source></source>
+        <cover>qrc:/covers/736.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>739</channel_id>
+        <caption>Первый метео</caption>
+        <source></source>
+        <cover>qrc:/covers/739.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>742</channel_id>
+        <caption>Русский Экстрим</caption>
+        <source></source>
+        <cover>qrc:/covers/742.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>743</channel_id>
+        <caption>Discovery Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/743.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>745</channel_id>
+        <caption>Cartoon Network</caption>
+        <source></source>
+        <cover>qrc:/covers/745.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>761</channel_id>
+        <caption> Здоровье</caption>
+        <source></source>
+        <cover>qrc:/covers/761.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>761</channel_id>
+        <caption> Здоровье ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/761.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>763</channel_id>
+        <caption>Телепутешествия</caption>
+        <source></source>
+        <cover>qrc:/covers/763.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>766</channel_id>
+        <caption>Nickelodeon</caption>
+        <source></source>
+        <cover>qrc:/covers/766.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>766</channel_id>
+        <caption>Nickelodeon HD</caption>
+        <source></source>
+        <cover>qrc:/covers/766.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>769</channel_id>
+        <caption>Телеканал 360°</caption>
+        <source></source>
+        <cover>qrc:/covers/769.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>775</channel_id>
+        <caption>TLC</caption>
+        <source></source>
+        <cover>qrc:/covers/775.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>775</channel_id>
+        <caption>TLC Russia</caption>
+        <source></source>
+        <cover>qrc:/covers/775.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>781</channel_id>
+        <caption>PRO Business</caption>
+        <source></source>
+        <cover>qrc:/covers/781.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>781</channel_id>
+        <caption>Про бизнес</caption>
+        <source></source>
+        <cover>qrc:/covers/781.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>782</channel_id>
+        <caption>Hustler TV Europe</caption>
+        <source></source>
+        <cover>qrc:/covers/782.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>787</channel_id>
+        <caption>TV1000 Action</caption>
+        <source></source>
+        <cover>qrc:/covers/787.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>787</channel_id>
+        <caption>TV1000 Action HD</caption>
+        <source></source>
+        <cover>qrc:/covers/787.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>796</channel_id>
+        <caption>TV1000</caption>
+        <source></source>
+        <cover>qrc:/covers/796.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>796</channel_id>
+        <caption>TV1000 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/796.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>800</channel_id>
+        <caption>Viasat Explore</caption>
+        <source></source>
+        <cover>qrc:/covers/800.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>800</channel_id>
+        <caption>Viasat Explorer</caption>
+        <source></source>
+        <cover>qrc:/covers/800.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>801</channel_id>
+        <caption>Жара</caption>
+        <source></source>
+        <cover>qrc:/covers/801.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>806</channel_id>
+        <caption>Радость Моя</caption>
+        <source></source>
+        <cover>qrc:/covers/806.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>808</channel_id>
+        <caption>Paramount Comedy</caption>
+        <source></source>
+        <cover>qrc:/covers/808.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>808</channel_id>
+        <caption>Paramount Comedy Russia</caption>
+        <source></source>
+        <cover>qrc:/covers/808.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>810</channel_id>
+        <caption>MCM TOP</caption>
+        <source></source>
+        <cover>qrc:/covers/810.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>822</channel_id>
+        <caption>BRIDGE TV Русский Хит</caption>
+        <source></source>
+        <cover>qrc:/covers/822.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>833</channel_id>
+        <caption>Индийское кино</caption>
+        <source></source>
+        <cover>qrc:/covers/833.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>834</channel_id>
+        <caption>Stingray CMusic</caption>
+        <source></source>
+        <cover>qrc:/covers/834.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>835</channel_id>
+        <caption>CNN</caption>
+        <source></source>
+        <cover>qrc:/covers/835.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>843</channel_id>
+        <caption>Москва-24</caption>
+        <source></source>
+        <cover>qrc:/covers/843.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>850</channel_id>
+        <caption>Первый</caption>
+        <source></source>
+        <cover>qrc:/covers/850.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>850</channel_id>
+        <caption>Первый канал</caption>
+        <source></source>
+        <cover>qrc:/covers/850.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>853</channel_id>
+        <caption>Bridge</caption>
+        <source></source>
+        <cover>qrc:/covers/853.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>853</channel_id>
+        <caption>BRIDGE TV</caption>
+        <source></source>
+        <cover>qrc:/covers/853.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>864</channel_id>
+        <caption>МАТЧ! Футбол 1</caption>
+        <source></source>
+        <cover>qrc:/covers/864.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>868</channel_id>
+        <caption>Кто есть кто</caption>
+        <source></source>
+        <cover>qrc:/covers/868.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>873</channel_id>
+        <caption>HDL HD</caption>
+        <source></source>
+        <cover>qrc:/covers/873.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>888</channel_id>
+        <caption>Наука</caption>
+        <source></source>
+        <cover>qrc:/covers/888.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>888</channel_id>
+        <caption>Наука 20</caption>
+        <source></source>
+        <cover>qrc:/covers/888.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>889</channel_id>
+        <caption>Ретро</caption>
+        <source></source>
+        <cover>qrc:/covers/889.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>896</channel_id>
+        <caption>Союз</caption>
+        <source></source>
+        <cover>qrc:/covers/896.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>901</channel_id>
+        <caption>Ля-минор ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/901.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>901</channel_id>
+        <caption>Ляминор</caption>
+        <source></source>
+        <cover>qrc:/covers/901.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>904</channel_id>
+        <caption>World Fashion channel</caption>
+        <source></source>
+        <cover>qrc:/covers/904.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>904</channel_id>
+        <caption>Fashion TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/904.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>904</channel_id>
+        <caption>WFC TV International HD</caption>
+        <source></source>
+        <cover>qrc:/covers/904.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>904</channel_id>
+        <caption>WFC TV International [FHD]</caption>
+        <source></source>
+        <cover>qrc:/covers/904.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>905</channel_id>
+        <caption>КХЛ</caption>
+        <source></source>
+        <cover>qrc:/covers/905.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>905</channel_id>
+        <caption>Телеканал КХЛ</caption>
+        <source></source>
+        <cover>qrc:/covers/905.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>911</channel_id>
+        <caption>ЖИВИ!</caption>
+        <source></source>
+        <cover>qrc:/covers/911.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>919</channel_id>
+        <caption>ЕДА</caption>
+        <source></source>
+        <cover>qrc:/covers/919.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>924</channel_id>
+        <caption>Усадьба</caption>
+        <source></source>
+        <cover>qrc:/covers/924.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>927</channel_id>
+        <caption>Успех</caption>
+        <source></source>
+        <cover>qrc:/covers/927.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>933</channel_id>
+        <caption>Discovery Science</caption>
+        <source></source>
+        <cover>qrc:/covers/933.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>942</channel_id>
+        <caption>О2ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/942.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>943</channel_id>
+        <caption>Luxe.TV</caption>
+        <source></source>
+        <cover>qrc:/covers/943.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>945</channel_id>
+        <caption>Fox Life</caption>
+        <source></source>
+        <cover>qrc:/covers/945.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>945</channel_id>
+        <caption>Fox Life HD</caption>
+        <source></source>
+        <cover>qrc:/covers/945.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>948</channel_id>
+        <caption>ТВЦ</caption>
+        <source></source>
+        <cover>qrc:/covers/948.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>948</channel_id>
+        <caption>ТВ Центр</caption>
+        <source></source>
+        <cover>qrc:/covers/948.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>953</channel_id>
+        <caption>RAP.RU</caption>
+        <source></source>
+        <cover>qrc:/covers/953.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>963</channel_id>
+        <caption>Пятый канал</caption>
+        <source></source>
+        <cover>qrc:/covers/963.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>963</channel_id>
+        <caption>5 канал</caption>
+        <source></source>
+        <cover>qrc:/covers/963.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>968</channel_id>
+        <caption>Ю</caption>
+        <source></source>
+        <cover>qrc:/covers/968.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>974</channel_id>
+        <caption>Мир сериалов</caption>
+        <source></source>
+        <cover>qrc:/covers/974.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>974</channel_id>
+        <caption>Мир сериала</caption>
+        <source></source>
+        <cover>qrc:/covers/974.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>975</channel_id>
+        <caption>365 дней ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/975.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>980</channel_id>
+        <caption>Футбол</caption>
+        <source></source>
+        <cover>qrc:/covers/980.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>981</channel_id>
+        <caption>Еда Премиум</caption>
+        <source></source>
+        <cover>qrc:/covers/981.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>986</channel_id>
+        <caption>Звезда</caption>
+        <source></source>
+        <cover>qrc:/covers/986.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>986</channel_id>
+        <caption>Звезда HD</caption>
+        <source></source>
+        <cover>qrc:/covers/986.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>994</channel_id>
+        <caption>Зоо ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/994.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1002</channel_id>
+        <caption>Загородный</caption>
+        <source></source>
+        <cover>qrc:/covers/1002.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1003</channel_id>
+        <caption>Travel Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/1003.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1004</channel_id>
+        <caption>Русский Иллюзион</caption>
+        <source></source>
+        <cover>qrc:/covers/1004.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1007</channel_id>
+        <caption>Иллюзион +</caption>
+        <source></source>
+        <cover>qrc:/covers/1007.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1008</channel_id>
+        <caption>Совершенно секретно</caption>
+        <source></source>
+        <cover>qrc:/covers/1008.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1008</channel_id>
+        <caption>Совершено секретно</caption>
+        <source></source>
+        <cover>qrc:/covers/1008.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1010</channel_id>
+        <caption>Феникс Плюс Кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1010.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1010</channel_id>
+        <caption>Феникс+Кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1010.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1014</channel_id>
+        <caption>РазТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1014.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1019</channel_id>
+        <caption>Мужской</caption>
+        <source></source>
+        <cover>qrc:/covers/1019.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1023</channel_id>
+        <caption>TV club</caption>
+        <source></source>
+        <cover>qrc:/covers/1023.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1027</channel_id>
+        <caption>FOX</caption>
+        <source></source>
+        <cover>qrc:/covers/1027.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1038</channel_id>
+        <caption>VH1 Classic</caption>
+        <source></source>
+        <cover>qrc:/covers/1038.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1042</channel_id>
+        <caption>Первый образовательный</caption>
+        <source></source>
+        <cover>qrc:/covers/1042.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1049</channel_id>
+        <caption>2х2</caption>
+        <source></source>
+        <cover>qrc:/covers/1049.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1049</channel_id>
+        <caption>2x2</caption>
+        <source></source>
+        <cover>qrc:/covers/1049.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1050</channel_id>
+        <caption>Телекафе</caption>
+        <source></source>
+        <cover>qrc:/covers/1050.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1051</channel_id>
+        <caption>Домашний</caption>
+        <source></source>
+        <cover>qrc:/covers/1051.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1051</channel_id>
+        <caption>Dомашний</caption>
+        <source></source>
+        <cover>qrc:/covers/1051.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1051</channel_id>
+        <caption>Домашний HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1051.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1057</channel_id>
+        <caption>MusicBox TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1057.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1057</channel_id>
+        <caption>Music Box Russian HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1057.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1063</channel_id>
+        <caption>Nat Geo Wild</caption>
+        <source></source>
+        <cover>qrc:/covers/1063.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1063</channel_id>
+        <caption>National Geographic Wild</caption>
+        <source></source>
+        <cover>qrc:/covers/1063.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1064</channel_id>
+        <caption>Вопросы и ответы</caption>
+        <source></source>
+        <cover>qrc:/covers/1064.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1066</channel_id>
+        <caption>Extreme Sports</caption>
+        <source></source>
+        <cover>qrc:/covers/1066.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1070</channel_id>
+        <caption>Комедийное HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1070.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1075</channel_id>
+        <caption>euronews</caption>
+        <source></source>
+        <cover>qrc:/covers/1075.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1075</channel_id>
+        <caption>Евроновости</caption>
+        <source></source>
+        <cover>qrc:/covers/1075.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1083</channel_id>
+        <caption>Кинокомедия</caption>
+        <source></source>
+        <cover>qrc:/covers/1083.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1083</channel_id>
+        <caption>Кинокомедия ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1083.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1083</channel_id>
+        <caption>Кинокомедия HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1083.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1085</channel_id>
+        <caption>SONY TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1085.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1091</channel_id>
+        <caption>ТВ-3</caption>
+        <source></source>
+        <cover>qrc:/covers/1091.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1091</channel_id>
+        <caption>ТВ3 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1091.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1092</channel_id>
+        <caption>Психология 21</caption>
+        <source></source>
+        <cover>qrc:/covers/1092.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1094</channel_id>
+        <caption>Кухня ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1094.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1096</channel_id>
+        <caption>Top Shop TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1096.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1097</channel_id>
+        <caption>Zee TV Россия</caption>
+        <source></source>
+        <cover>qrc:/covers/1097.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1097</channel_id>
+        <caption>Zee-TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1097.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1101</channel_id>
+        <caption>Discovery FHD</caption>
+        <source></source>
+        <cover>qrc:/covers/1101.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1101</channel_id>
+        <caption>Discovery Channel HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1101.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1101</channel_id>
+        <caption>Discovery HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1101.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1103</channel_id>
+        <caption>Родное кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1103.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1104</channel_id>
+        <caption>Музыка Первого</caption>
+        <source></source>
+        <cover>qrc:/covers/1104.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1111</channel_id>
+        <caption>МУЗ ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1111.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1112</channel_id>
+        <caption>СТС</caption>
+        <source></source>
+        <cover>qrc:/covers/1112.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1112</channel_id>
+        <caption>СТС HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1112.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1116</channel_id>
+        <caption>National Geographic Wild HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1116.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1116</channel_id>
+        <caption>Nat Geo Wild HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1116.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1122</channel_id>
+        <caption>Авто Плюс</caption>
+        <source></source>
+        <cover>qrc:/covers/1122.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1126</channel_id>
+        <caption>РБК</caption>
+        <source></source>
+        <cover>qrc:/covers/1126.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1126</channel_id>
+        <caption>РБК ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1126.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1127</channel_id>
+        <caption>RUSSIAN MUSICBOX</caption>
+        <source></source>
+        <cover>qrc:/covers/1127.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1128</channel_id>
+        <caption>Русская ночь</caption>
+        <source></source>
+        <cover>qrc:/covers/1128.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1129</channel_id>
+        <caption>Шансон</caption>
+        <source></source>
+        <cover>qrc:/covers/1129.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1129</channel_id>
+        <caption>Шансон ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1129.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1129</channel_id>
+        <caption>shanson</caption>
+        <source></source>
+        <cover>qrc:/covers/1129.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1134</channel_id>
+        <caption>Киномикс</caption>
+        <source></source>
+        <cover>qrc:/covers/1134.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1136</channel_id>
+        <caption>Дождь</caption>
+        <source></source>
+        <cover>qrc:/covers/1136.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1141</channel_id>
+        <caption>Время</caption>
+        <source></source>
+        <cover>qrc:/covers/1141.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1143</channel_id>
+        <caption>МАТЧ! Боец</caption>
+        <source></source>
+        <cover>qrc:/covers/1143.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1144</channel_id>
+        <caption>TV1000 Русское кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1144.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1148</channel_id>
+        <caption>РЕН ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1148.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1156</channel_id>
+        <caption>myZen.tv</caption>
+        <source></source>
+        <cover>qrc:/covers/1156.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1159</channel_id>
+        <caption>Киносвидание</caption>
+        <source></source>
+        <cover>qrc:/covers/1159.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1159</channel_id>
+        <caption>Киносвидание HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1159.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1162</channel_id>
+        <caption>Карусель</caption>
+        <source></source>
+        <cover>qrc:/covers/1162.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1169</channel_id>
+        <caption>Россия К</caption>
+        <source></source>
+        <cover>qrc:/covers/1169.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1169</channel_id>
+        <caption>Культура</caption>
+        <source></source>
+        <cover>qrc:/covers/1169.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1174</channel_id>
+        <caption>ТНВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1174.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1179</channel_id>
+        <caption>Сарафан</caption>
+        <source></source>
+        <cover>qrc:/covers/1179.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1179</channel_id>
+        <caption>Сарафан ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1179.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1182</channel_id>
+        <caption>Mezzo</caption>
+        <source></source>
+        <cover>qrc:/covers/1182.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1182</channel_id>
+        <caption>Mezzo Live HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1182.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1185</channel_id>
+        <caption>ТНТ MUSIC</caption>
+        <source></source>
+        <cover>qrc:/covers/1185.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1185</channel_id>
+        <caption>ТНТ music (bonustv)</caption>
+        <source></source>
+        <cover>qrc:/covers/1185.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1193</channel_id>
+        <caption>Спас ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1193.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1193</channel_id>
+        <caption>Спас</caption>
+        <source></source>
+        <cover>qrc:/covers/1193.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1195</channel_id>
+        <caption>Загородная жизнь</caption>
+        <source></source>
+        <cover>qrc:/covers/1195.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1197</channel_id>
+        <caption>RT</caption>
+        <source></source>
+        <cover>qrc:/covers/1197.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1197</channel_id>
+        <caption>Russia Today</caption>
+        <source></source>
+        <cover>qrc:/covers/1197.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1201</channel_id>
+        <caption>Дом Кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1201.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1204</channel_id>
+        <caption>France 24</caption>
+        <source></source>
+        <cover>qrc:/covers/1204.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1204</channel_id>
+        <caption>France24 English</caption>
+        <source></source>
+        <cover>qrc:/covers/1204.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1219</channel_id>
+        <caption>Ностальгия</caption>
+        <source></source>
+        <cover>qrc:/covers/1219.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1229</channel_id>
+        <caption>Da Vinci</caption>
+        <source></source>
+        <cover>qrc:/covers/1229.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1229</channel_id>
+        <caption>Da Vinci Learning</caption>
+        <source></source>
+        <cover>qrc:/covers/1229.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1234</channel_id>
+        <caption>Eurosport 2</caption>
+        <source></source>
+        <cover>qrc:/covers/1234.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1241</channel_id>
+        <caption>Кинохит</caption>
+        <source></source>
+        <cover>qrc:/covers/1241.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1241</channel_id>
+        <caption>Кинохит HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1241.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1243</channel_id>
+        <caption>TV5MONDE</caption>
+        <source></source>
+        <cover>qrc:/covers/1243.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1244</channel_id>
+        <caption>Здоровое ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1244.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1249</channel_id>
+        <caption>SONY Sci-Fi</caption>
+        <source></source>
+        <cover>qrc:/covers/1249.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1250</channel_id>
+        <caption>Приключения HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1250.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1252</channel_id>
+        <caption>JimJam</caption>
+        <source></source>
+        <cover>qrc:/covers/1252.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1255</channel_id>
+        <caption>ТДК</caption>
+        <source></source>
+        <cover>qrc:/covers/1255.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1255</channel_id>
+        <caption>TDK</caption>
+        <source></source>
+        <cover>qrc:/covers/1255.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1257</channel_id>
+        <caption>HD Медиа</caption>
+        <source></source>
+        <cover>qrc:/covers/1257.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1259</channel_id>
+        <caption>Disney</caption>
+        <source></source>
+        <cover>qrc:/covers/1259.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1259</channel_id>
+        <caption>Disney канал</caption>
+        <source></source>
+        <cover>qrc:/covers/1259.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1259</channel_id>
+        <caption>Disney Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/1259.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1262</channel_id>
+        <caption>Любимое кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1262.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1262</channel_id>
+        <caption>РТВ - Любимое кино</caption>
+        <source></source>
+        <cover>qrc:/covers/1262.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1263</channel_id>
+        <caption>Cinema</caption>
+        <source></source>
+        <cover>qrc:/covers/1263.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1266</channel_id>
+        <caption>National Geographic</caption>
+        <source></source>
+        <cover>qrc:/covers/1266.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1266</channel_id>
+        <caption>National Geographic HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1266.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1269</channel_id>
+        <caption>TV XXI</caption>
+        <source></source>
+        <cover>qrc:/covers/1269.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1271</channel_id>
+        <caption>Россия 1</caption>
+        <source></source>
+        <cover>qrc:/covers/1271.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1271</channel_id>
+        <caption>РТР Россия</caption>
+        <source></source>
+        <cover>qrc:/covers/1271.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1271</channel_id>
+        <caption>Россия HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1271.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1271</channel_id>
+        <caption>РТР Планета</caption>
+        <source></source>
+        <cover>qrc:/covers/1271.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1271</channel_id>
+        <caption>RTR Planeta</caption>
+        <source></source>
+        <cover>qrc:/covers/1271.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1282</channel_id>
+        <caption>Fashion TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1282.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1296</channel_id>
+        <caption>Outdoor Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/1296.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1296</channel_id>
+        <caption>Outdoor</caption>
+        <source></source>
+        <cover>qrc:/covers/1296.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1300</channel_id>
+        <caption>Viasat Sport</caption>
+        <source></source>
+        <cover>qrc:/covers/1300.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1302</channel_id>
+        <caption>Blue Hustler</caption>
+        <source></source>
+        <cover>qrc:/covers/1302.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1307</channel_id>
+        <caption>Оружие</caption>
+        <source></source>
+        <cover>qrc:/covers/1307.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1309</channel_id>
+        <caption>Ocean TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1309.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1309</channel_id>
+        <caption>Ocean TV (HD)</caption>
+        <source></source>
+        <cover>qrc:/covers/1309.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1319</channel_id>
+        <caption>Санкт-Петербург</caption>
+        <source></source>
+        <cover>qrc:/covers/1319.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1324</channel_id>
+        <caption>Детский</caption>
+        <source></source>
+        <cover>qrc:/covers/1324.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1326</channel_id>
+        <caption>Gulli</caption>
+        <source></source>
+        <cover>qrc:/covers/1326.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1326</channel_id>
+        <caption>Gulli Girl</caption>
+        <source></source>
+        <cover>qrc:/covers/1326.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1333</channel_id>
+        <caption>Домашние животные</caption>
+        <source></source>
+        <cover>qrc:/covers/1333.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1334</channel_id>
+        <caption>Моя Планета</caption>
+        <source></source>
+        <cover>qrc:/covers/1334.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1334</channel_id>
+        <caption>Моя Планета HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1334.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1340</channel_id>
+        <caption>Zooпарк</caption>
+        <source></source>
+        <cover>qrc:/covers/1340.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1343</channel_id>
+        <caption>English Club TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1343.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1346</channel_id>
+        <caption>Ru TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1346.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1346</channel_id>
+        <caption>Ru.TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1346.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1352</channel_id>
+        <caption>BBC</caption>
+        <source></source>
+        <cover>qrc:/covers/1352.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1353</channel_id>
+        <caption>Охота и рыбалка</caption>
+        <source></source>
+        <cover>qrc:/covers/1353.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1354</channel_id>
+        <caption>TiJi</caption>
+        <source></source>
+        <cover>qrc:/covers/1354.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1356</channel_id>
+        <caption>Russian Travel Guide</caption>
+        <source></source>
+        <cover>qrc:/covers/1356.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1356</channel_id>
+        <caption>RTG</caption>
+        <source></source>
+        <cover>qrc:/covers/1356.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1356</channel_id>
+        <caption>RTG HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1356.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1356</channel_id>
+        <caption>RTG TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1356.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1362</channel_id>
+        <caption>Viasat Nature</caption>
+        <source></source>
+        <cover>qrc:/covers/1362.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1362</channel_id>
+        <caption>Viasat Nature HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1362.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1366</channel_id>
+        <caption>Мама</caption>
+        <source></source>
+        <cover>qrc:/covers/1366.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1367</channel_id>
+        <caption>Русский бестселлер</caption>
+        <source></source>
+        <cover>qrc:/covers/1367.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1378</channel_id>
+        <caption>Playboy TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1378.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1380</channel_id>
+        <caption>BBC World</caption>
+        <source></source>
+        <cover>qrc:/covers/1380.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1380</channel_id>
+        <caption>BBC World News</caption>
+        <source></source>
+        <cover>qrc:/covers/1380.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1381</channel_id>
+        <caption>Мультиландия</caption>
+        <source></source>
+        <cover>qrc:/covers/1381.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1384</channel_id>
+        <caption>БелРос</caption>
+        <source></source>
+        <cover>qrc:/covers/1384.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1385</channel_id>
+        <caption>Беларусь 24</caption>
+        <source></source>
+        <cover>qrc:/covers/1385.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1385</channel_id>
+        <caption>Беларусь 24 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1385.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1395</channel_id>
+        <caption>НТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1395.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1396</channel_id>
+        <caption>Драйв</caption>
+        <source></source>
+        <cover>qrc:/covers/1396.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1397</channel_id>
+        <caption>Русский роман</caption>
+        <source></source>
+        <cover>qrc:/covers/1397.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1401</channel_id>
+        <caption>Animal Planet HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1401.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1401</channel_id>
+        <caption>Animal Planet HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1401.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1404</channel_id>
+        <caption>Travel Channel HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1404.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1405</channel_id>
+        <caption>МАТЧ! Футбол 2 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1405.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1408</channel_id>
+        <caption>Fashion One HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1408.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1420</channel_id>
+        <caption>France 24 Francais</caption>
+        <source></source>
+        <cover>qrc:/covers/1420.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1422</channel_id>
+        <caption>Hollywood HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1422.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1429</channel_id>
+        <caption>ТНВ Планета</caption>
+        <source></source>
+        <cover>qrc:/covers/1429.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1433</channel_id>
+        <caption>Просвещение</caption>
+        <source></source>
+        <cover>qrc:/covers/1433.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1436</channel_id>
+        <caption>МАТЧ! Футбол 1 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1436.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1438</channel_id>
+        <caption>НТВ Мир</caption>
+        <source></source>
+        <cover>qrc:/covers/1438.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1449</channel_id>
+        <caption>RE:Music</caption>
+        <source></source>
+        <cover>qrc:/covers/1449.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1454</channel_id>
+        <caption>ACB TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1454.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1470</channel_id>
+        <caption>Viasat Nature-History HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1470.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1474</channel_id>
+        <caption>French Lover</caption>
+        <source></source>
+        <cover>qrc:/covers/1474.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1477</channel_id>
+        <caption>Fashion One</caption>
+        <source></source>
+        <cover>qrc:/covers/1477.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1479</channel_id>
+        <caption>ViP Megahit</caption>
+        <source></source>
+        <cover>qrc:/covers/1479.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1479</channel_id>
+        <caption>ViP Megahit HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1479.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1498</channel_id>
+        <caption>TV Mall</caption>
+        <source></source>
+        <cover>qrc:/covers/1498.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1507</channel_id>
+        <caption>Домашний Магазин</caption>
+        <source></source>
+        <cover>qrc:/covers/1507.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1511</channel_id>
+        <caption>Hustler HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1511.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1516</channel_id>
+        <caption>Boomerang</caption>
+        <source></source>
+        <cover>qrc:/covers/1516.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1524</channel_id>
+        <caption>ViP Premiere</caption>
+        <source></source>
+        <cover>qrc:/covers/1524.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1524</channel_id>
+        <caption>ViP Premiere HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1524.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1528</channel_id>
+        <caption>CGTN Русский</caption>
+        <source></source>
+        <cover>qrc:/covers/1528.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1552</channel_id>
+        <caption>МАТЧ! Футбол 2</caption>
+        <source></source>
+        <cover>qrc:/covers/1552.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1561</channel_id>
+        <caption>Эгоист ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1561.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1566</channel_id>
+        <caption>А2</caption>
+        <source></source>
+        <cover>qrc:/covers/1566.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1566</channel_id>
+        <caption>A2</caption>
+        <source></source>
+        <cover>qrc:/covers/1566.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1567</channel_id>
+        <caption>Театр</caption>
+        <source></source>
+        <cover>qrc:/covers/1567.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1570</channel_id>
+        <caption>Stingray iConcerts</caption>
+        <source></source>
+        <cover>qrc:/covers/1570.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1574</channel_id>
+        <caption>Shop24</caption>
+        <source></source>
+        <cover>qrc:/covers/1574.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1576</channel_id>
+        <caption>Baby TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1576.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1579</channel_id>
+        <caption>Eurosport 1 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1579.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1590</channel_id>
+        <caption>КХЛ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1590.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1590</channel_id>
+        <caption>Телеканал КХЛ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1590.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1598</channel_id>
+        <caption>ViP Comedy</caption>
+        <source></source>
+        <cover>qrc:/covers/1598.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1598</channel_id>
+        <caption>ViP Comedy HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1598.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1603</channel_id>
+        <caption>Nick Jr</caption>
+        <source></source>
+        <cover>qrc:/covers/1603.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1610</channel_id>
+        <caption>NHK WORLD</caption>
+        <source></source>
+        <cover>qrc:/covers/1610.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1612</channel_id>
+        <caption>Нано</caption>
+        <source></source>
+        <cover>qrc:/covers/1612.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1612</channel_id>
+        <caption>Nano TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1612.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1617</channel_id>
+        <caption>Outdoor HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1617.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1618</channel_id>
+        <caption>Дождь HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1618.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1619</channel_id>
+        <caption>SONY TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1619.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1622</channel_id>
+        <caption>CNN (eng)</caption>
+        <source></source>
+        <cover>qrc:/covers/1622.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1622</channel_id>
+        <caption>CNN International</caption>
+        <source></source>
+        <cover>qrc:/covers/1622.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1628</channel_id>
+        <caption>CBS Reality</caption>
+        <source></source>
+        <cover>qrc:/covers/1628.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1638</channel_id>
+        <caption>ТБН</caption>
+        <source></source>
+        <cover>qrc:/covers/1638.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1651</channel_id>
+        <caption>Киносемья</caption>
+        <source></source>
+        <cover>qrc:/covers/1651.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1651</channel_id>
+        <caption>Киносемья HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1651.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1652</channel_id>
+        <caption>Candy TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1652.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1653</channel_id>
+        <caption>Кино ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1653.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1658</channel_id>
+        <caption>RT Док</caption>
+        <source></source>
+        <cover>qrc:/covers/1658.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1658</channel_id>
+        <caption>Russia Today Doc</caption>
+        <source></source>
+        <cover>qrc:/covers/1658.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1658</channel_id>
+        <caption>Russia Today Documentary</caption>
+        <source></source>
+        <cover>qrc:/covers/1658.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1660</channel_id>
+        <caption>Europa Plus TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1660.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1666</channel_id>
+        <caption>Россия 1 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1666.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1670</channel_id>
+        <caption>ОТР</caption>
+        <source></source>
+        <cover>qrc:/covers/1670.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1671</channel_id>
+        <caption>Пятница</caption>
+        <source></source>
+        <cover>qrc:/covers/1671.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1671</channel_id>
+        <caption>Пятница!</caption>
+        <source></source>
+        <cover>qrc:/covers/1671.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1671</channel_id>
+        <caption>Пятница HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1671.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1683</channel_id>
+        <caption>A HBO</caption>
+        <source></source>
+        <cover>qrc:/covers/1683.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1683</channel_id>
+        <caption>Amedia Premium HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1683.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1684</channel_id>
+        <caption>Эхо TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1684.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1693</channel_id>
+        <caption>Первый канал HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1693.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1693</channel_id>
+        <caption>Первый HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1693.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1700</channel_id>
+        <caption>Охотник и Рыболов</caption>
+        <source></source>
+        <cover>qrc:/covers/1700.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1700</channel_id>
+        <caption>Охотник и Рыболов HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1700.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1700</channel_id>
+        <caption>Oхотник и Рыболов HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1700.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1702</channel_id>
+        <caption>Candy TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1702.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1707</channel_id>
+        <caption>Travel+Adventure</caption>
+        <source></source>
+        <cover>qrc:/covers/1707.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1707</channel_id>
+        <caption>Travel+Adventure HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1707.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1714</channel_id>
+        <caption>Теледом</caption>
+        <source></source>
+        <cover>qrc:/covers/1714.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1716</channel_id>
+        <caption>BRIDGE TV HITS</caption>
+        <source></source>
+        <cover>qrc:/covers/1716.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1717</channel_id>
+        <caption>8 канал</caption>
+        <source></source>
+        <cover>qrc:/covers/1717.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1718</channel_id>
+        <caption>А1 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1718.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1721</channel_id>
+        <caption>Морской</caption>
+        <source></source>
+        <cover>qrc:/covers/1721.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1723</channel_id>
+        <caption>HD Media 3D</caption>
+        <source></source>
+        <cover>qrc:/covers/1723.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1727</channel_id>
+        <caption>История</caption>
+        <source></source>
+        <cover>qrc:/covers/1727.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1732</channel_id>
+        <caption>JSTV</caption>
+        <source></source>
+        <cover>qrc:/covers/1732.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1739</channel_id>
+        <caption>MTV Россия</caption>
+        <source></source>
+        <cover>qrc:/covers/1739.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1741</channel_id>
+        <caption>Остросюжетное HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1741.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1744</channel_id>
+        <caption>Премиальное HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1744.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1754</channel_id>
+        <caption>LUXURY</caption>
+        <source></source>
+        <cover>qrc:/covers/1754.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1754</channel_id>
+        <caption>Luxury HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1754.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1759</channel_id>
+        <caption>Brazzers TV Europe</caption>
+        <source></source>
+        <cover>qrc:/covers/1759.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1778</channel_id>
+        <caption>Candy Man</caption>
+        <source></source>
+        <cover>qrc:/covers/1778.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1781</channel_id>
+        <caption>Paramount Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/1781.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1781</channel_id>
+        <caption>Paramount Channel HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1781.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1784</channel_id>
+        <caption>Paramount Comedy Russia HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1784.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1786</channel_id>
+        <caption>Авто 24 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1786.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1787</channel_id>
+        <caption>O-la-la</caption>
+        <source></source>
+        <cover>qrc:/covers/1787.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1794</channel_id>
+        <caption>Русский Детектив</caption>
+        <source></source>
+        <cover>qrc:/covers/1794.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1798</channel_id>
+        <caption>History HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1798.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1799</channel_id>
+        <caption>History</caption>
+        <source></source>
+        <cover>qrc:/covers/1799.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1800</channel_id>
+        <caption>СТС Love</caption>
+        <source></source>
+        <cover>qrc:/covers/1800.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1801</channel_id>
+        <caption>Три Ангела</caption>
+        <source></source>
+        <cover>qrc:/covers/1801.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1806</channel_id>
+        <caption>Планета HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1806.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1810</channel_id>
+        <caption>МАТЧ! Футбол 3</caption>
+        <source></source>
+        <cover>qrc:/covers/1810.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1811</channel_id>
+        <caption>Крик ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1811.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1813</channel_id>
+        <caption>Вместе РФ</caption>
+        <source></source>
+        <cover>qrc:/covers/1813.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1813</channel_id>
+        <caption>Вместе РФ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1813.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1817</channel_id>
+        <caption>Russian Travel Guide HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1817.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1818</channel_id>
+        <caption>Viasat Sport HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1818.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1821</channel_id>
+        <caption>1 HD Music Television</caption>
+        <source></source>
+        <cover>qrc:/covers/1821.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1821</channel_id>
+        <caption>First Music channel HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1821.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1821</channel_id>
+        <caption>1HD Music TV</caption>
+        <source></source>
+        <cover>qrc:/covers/1821.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1821</channel_id>
+        <caption>1 Music Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/1821.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1821</channel_id>
+        <caption>Первый Музыкальный RU HD BY</caption>
+        <source></source>
+        <cover>qrc:/covers/1821.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1821</channel_id>
+        <caption>Первый Музыкальный RU BY</caption>
+        <source></source>
+        <cover>qrc:/covers/1821.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1825</channel_id>
+        <caption>Мульт</caption>
+        <source></source>
+        <cover>qrc:/covers/1825.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1827</channel_id>
+        <caption>МИР 24</caption>
+        <source></source>
+        <cover>qrc:/covers/1827.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1827</channel_id>
+        <caption>Mir24</caption>
+        <source></source>
+        <cover>qrc:/covers/1827.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1829</channel_id>
+        <caption>Discovery Science HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1829.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1830</channel_id>
+        <caption>Candy 3D HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1830.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1831</channel_id>
+        <caption>BRIDGE TV CLASSIC</caption>
+        <source></source>
+        <cover>qrc:/covers/1831.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1832</channel_id>
+        <caption>Телеканал 360° HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1832.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1834</channel_id>
+        <caption>Russia Today Doc HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1834.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1835</channel_id>
+        <caption>В мире животных</caption>
+        <source></source>
+        <cover>qrc:/covers/1835.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1835</channel_id>
+        <caption>В мире животных HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1835.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1836</channel_id>
+        <caption>Эврика</caption>
+        <source></source>
+        <cover>qrc:/covers/1836.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1836</channel_id>
+        <caption>Эврика HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1836.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1836</channel_id>
+        <caption>Eureka HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1836.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1840</channel_id>
+        <caption>Живая природа</caption>
+        <source></source>
+        <cover>qrc:/covers/1840.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1851</channel_id>
+        <caption>Бокс ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1851.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1854</channel_id>
+        <caption>Страшное HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1854.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1871</channel_id>
+        <caption>Bollywood HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1871.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1872</channel_id>
+        <caption>Точка ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1872.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1882</channel_id>
+        <caption>Кубань 24 Орбита</caption>
+        <source></source>
+        <cover>qrc:/covers/1882.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1884</channel_id>
+        <caption>Russia Today Documentary HD</caption>
+        <source></source>
+        <cover>qrc:/covers/1884.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1894</channel_id>
+        <caption>Food Network</caption>
+        <source></source>
+        <cover>qrc:/covers/1894.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1921</channel_id>
+        <caption>ЛДПР ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1921.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1926</channel_id>
+        <caption>Amedia Hit</caption>
+        <source></source>
+        <cover>qrc:/covers/1926.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1944</channel_id>
+        <caption>Техно 24</caption>
+        <source></source>
+        <cover>qrc:/covers/1944.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1956</channel_id>
+        <caption>ЕГЭ ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/1956.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1961</channel_id>
+        <caption>TVM Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/1961.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1968</channel_id>
+        <caption>Живая планета</caption>
+        <source></source>
+        <cover>qrc:/covers/1968.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1973</channel_id>
+        <caption>МИР PREMIUM</caption>
+        <source></source>
+        <cover>qrc:/covers/1973.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1973</channel_id>
+        <caption>Mir premium</caption>
+        <source></source>
+        <cover>qrc:/covers/1973.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>1993</channel_id>
+        <caption>Мир Увлечений</caption>
+        <source></source>
+        <cover>qrc:/covers/1993.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2006</channel_id>
+        <caption>Рыжий</caption>
+        <source></source>
+        <cover>qrc:/covers/2006.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2007</channel_id>
+        <caption>Тайны галактики</caption>
+        <source></source>
+        <cover>qrc:/covers/2007.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2008</channel_id>
+        <caption>Надежда</caption>
+        <source></source>
+        <cover>qrc:/covers/2008.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2011</channel_id>
+        <caption>Капитан Фантастика</caption>
+        <source></source>
+        <cover>qrc:/covers/2011.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2011</channel_id>
+        <caption>Капитан фантастика HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2011.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2015</channel_id>
+        <caption>Красная линия</caption>
+        <source></source>
+        <cover>qrc:/covers/2015.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2015</channel_id>
+        <caption>Красная линия ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2015.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2024</channel_id>
+        <caption>JuCe TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2024.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2035</channel_id>
+        <caption>Бобер</caption>
+        <source></source>
+        <cover>qrc:/covers/2035.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2035</channel_id>
+        <caption>Бобёр</caption>
+        <source></source>
+        <cover>qrc:/covers/2035.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2042</channel_id>
+        <caption>Ani</caption>
+        <source></source>
+        <cover>qrc:/covers/2042.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2043</channel_id>
+        <caption>Ювелирочка</caption>
+        <source></source>
+        <cover>qrc:/covers/2043.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2044</channel_id>
+        <caption>Мужское кино</caption>
+        <source></source>
+        <cover>qrc:/covers/2044.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2048</channel_id>
+        <caption>DTX</caption>
+        <source></source>
+        <cover>qrc:/covers/2048.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2048</channel_id>
+        <caption>DTX HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2048.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2060</channel_id>
+        <caption>МАТЧ!</caption>
+        <source></source>
+        <cover>qrc:/covers/2060.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2068</channel_id>
+        <caption>Че</caption>
+        <source></source>
+        <cover>qrc:/covers/2068.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2090</channel_id>
+        <caption>Комедия</caption>
+        <source></source>
+        <cover>qrc:/covers/2090.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2097</channel_id>
+        <caption>ТНТ4</caption>
+        <source></source>
+        <cover>qrc:/covers/2097.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2097</channel_id>
+        <caption>ТНТ4 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2097.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2111</channel_id>
+        <caption>Калейдоскоп ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2111.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2113</channel_id>
+        <caption>Museum HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2113.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2115</channel_id>
+        <caption>Fuel TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2115.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2116</channel_id>
+        <caption>Insight Ultra HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2116.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2121</channel_id>
+        <caption>МАТЧ! Планета</caption>
+        <source></source>
+        <cover>qrc:/covers/2121.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2122</channel_id>
+        <caption>МАТЧ! Игра</caption>
+        <source></source>
+        <cover>qrc:/covers/2122.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2123</channel_id>
+        <caption>МАТЧ! Арена</caption>
+        <source></source>
+        <cover>qrc:/covers/2123.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2124</channel_id>
+        <caption>МАТЧ! Арена HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2124.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2135</channel_id>
+        <caption>Наше ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2135.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2136</channel_id>
+        <caption>E TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2136.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2136</channel_id>
+        <caption>E TV (bonustv)</caption>
+        <source></source>
+        <cover>qrc:/covers/2136.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2137</channel_id>
+        <caption>Конный мир</caption>
+        <source></source>
+        <cover>qrc:/covers/2137.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2150</channel_id>
+        <caption>TV1000 World kino</caption>
+        <source></source>
+        <cover>qrc:/covers/2150.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2153</channel_id>
+        <caption>КВН ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2153.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2153</channel_id>
+        <caption>KVNHD</caption>
+        <source></source>
+        <cover>qrc:/covers/2153.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2154</channel_id>
+        <caption>History 2</caption>
+        <source></source>
+        <cover>qrc:/covers/2154.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2166</channel_id>
+        <caption>Открытый мир</caption>
+        <source></source>
+        <cover>qrc:/covers/2166.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2168</channel_id>
+        <caption>ТЛУМ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2168.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2173</channel_id>
+        <caption>Fashion One 4K</caption>
+        <source></source>
+        <cover>qrc:/covers/2173.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2174</channel_id>
+        <caption>Русский роман HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2174.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2175</channel_id>
+        <caption>Живая природа HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2175.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2179</channel_id>
+        <caption>BRIDGE HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2179.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2180</channel_id>
+        <caption>Кино ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2180.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2180</channel_id>
+        <caption>HD КИНО</caption>
+        <source></source>
+        <cover>qrc:/covers/2180.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2181</channel_id>
+        <caption>Радио Страна ФМ</caption>
+        <source></source>
+        <cover>qrc:/covers/2181.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2181</channel_id>
+        <caption>Телеканал Радио Страна FM</caption>
+        <source></source>
+        <cover>qrc:/covers/2181.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2186</channel_id>
+        <caption>Viasat History HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2186.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2194</channel_id>
+        <caption>RUSSIAN MUSICBOX HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2194.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2195</channel_id>
+        <caption>Анекдот ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2195.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2197</channel_id>
+        <caption>Малыш ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2197.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2198</channel_id>
+        <caption>Noise</caption>
+        <source></source>
+        <cover>qrc:/covers/2198.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2199</channel_id>
+        <caption>Наше Крутое</caption>
+        <source></source>
+        <cover>qrc:/covers/2199.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2200</channel_id>
+        <caption>Наш Кинороман</caption>
+        <source></source>
+        <cover>qrc:/covers/2200.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2204</channel_id>
+        <caption>Food Network HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2204.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2206</channel_id>
+        <caption>Шалун</caption>
+        <source></source>
+        <cover>qrc:/covers/2206.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2207</channel_id>
+        <caption>Шалун HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2207.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2212</channel_id>
+        <caption>В гостях у сказки</caption>
+        <source></source>
+        <cover>qrc:/covers/2212.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2214</channel_id>
+        <caption>НТВ Право</caption>
+        <source></source>
+        <cover>qrc:/covers/2214.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2215</channel_id>
+        <caption>НТВ Сериал</caption>
+        <source></source>
+        <cover>qrc:/covers/2215.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2216</channel_id>
+        <caption>НТВ Стиль</caption>
+        <source></source>
+        <cover>qrc:/covers/2216.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2217</channel_id>
+        <caption>HITV</caption>
+        <source></source>
+        <cover>qrc:/covers/2217.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2224</channel_id>
+        <caption>O!</caption>
+        <source></source>
+        <cover>qrc:/covers/2224.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2224</channel_id>
+        <caption>O!</caption>
+        <source></source>
+        <cover>qrc:/covers/2224.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2224</channel_id>
+        <caption>О!</caption>
+        <source></source>
+        <cover>qrc:/covers/2224.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2227</channel_id>
+        <caption>ТНТ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2227.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2232</channel_id>
+        <caption>Russian Extreme ULTRA HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2232.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2234</channel_id>
+        <caption>TVRUS</caption>
+        <source></source>
+        <cover>qrc:/covers/2234.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2235</channel_id>
+        <caption>Продвижение</caption>
+        <source></source>
+        <cover>qrc:/covers/2235.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2243</channel_id>
+        <caption>World Business Channel</caption>
+        <source></source>
+        <cover>qrc:/covers/2243.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2246</channel_id>
+        <caption>Поехали!</caption>
+        <source></source>
+        <cover>qrc:/covers/2246.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2252</channel_id>
+        <caption>7 TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2252.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2258</channel_id>
+        <caption>HOME 4K</caption>
+        <source></source>
+        <cover>qrc:/covers/2258.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2259</channel_id>
+        <caption>KBS World</caption>
+        <source></source>
+        <cover>qrc:/covers/2259.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2261</channel_id>
+        <caption>Fast FunBox HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2261.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2262</channel_id>
+        <caption>Erox</caption>
+        <source></source>
+        <cover>qrc:/covers/2262.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2263</channel_id>
+        <caption>FightBox</caption>
+        <source></source>
+        <cover>qrc:/covers/2263.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2264</channel_id>
+        <caption>360 TuneBox</caption>
+        <source></source>
+        <cover>qrc:/covers/2264.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2266</channel_id>
+        <caption>Синергия ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2266.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2269</channel_id>
+        <caption>China TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2269.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2273</channel_id>
+        <caption>Доктор</caption>
+        <source></source>
+        <cover>qrc:/covers/2273.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2274</channel_id>
+        <caption>Диалоги о рыбалке</caption>
+        <source></source>
+        <cover>qrc:/covers/2274.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2274</channel_id>
+        <caption>Диалоги о рыбалке HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2274.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2276</channel_id>
+        <caption>Пес и Ко</caption>
+        <source></source>
+        <cover>qrc:/covers/2276.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2277</channel_id>
+        <caption>Eurochannel</caption>
+        <source></source>
+        <cover>qrc:/covers/2277.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2279</channel_id>
+        <caption>Наша Сибирь 4К</caption>
+        <source></source>
+        <cover>qrc:/covers/2279.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2280</channel_id>
+        <caption>Clubbing TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2280.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2281</channel_id>
+        <caption>C4K360</caption>
+        <source></source>
+        <cover>qrc:/covers/2281.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2285</channel_id>
+        <caption>Первый вегетарианский</caption>
+        <source></source>
+        <cover>qrc:/covers/2285.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2287</channel_id>
+        <caption>ТНТ</caption>
+        <source></source>
+        <cover>qrc:/covers/2287.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2288</channel_id>
+        <caption>Классика Кино</caption>
+        <source></source>
+        <cover>qrc:/covers/2288.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2288</channel_id>
+        <caption>Классика Кино HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2288.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2290</channel_id>
+        <caption>Известия</caption>
+        <source></source>
+        <cover>qrc:/covers/2290.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2290</channel_id>
+        <caption>Известия ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2290.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2290</channel_id>
+        <caption>Известия ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2290.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2291</channel_id>
+        <caption>Неизвестная Планета</caption>
+        <source></source>
+        <cover>qrc:/covers/2291.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2293</channel_id>
+        <caption>Восток ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2293.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2293</channel_id>
+        <caption>Vostok TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2293.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2294</channel_id>
+        <caption>Eurosport Gold</caption>
+        <source></source>
+        <cover>qrc:/covers/2294.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2295</channel_id>
+        <caption>Ратник</caption>
+        <source></source>
+        <cover>qrc:/covers/2295.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2298</channel_id>
+        <caption>Barely legal</caption>
+        <source></source>
+        <cover>qrc:/covers/2298.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2301</channel_id>
+        <caption>Старт</caption>
+        <source></source>
+        <cover>qrc:/covers/2301.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2303</channel_id>
+        <caption>Большая Азия</caption>
+        <source></source>
+        <cover>qrc:/covers/2303.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2304</channel_id>
+        <caption>FRESHTV</caption>
+        <source></source>
+        <cover>qrc:/covers/2304.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2305</channel_id>
+        <caption>Любимое.ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2305.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2306</channel_id>
+        <caption>ТВТУР</caption>
+        <source></source>
+        <cover>qrc:/covers/2306.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2310</channel_id>
+        <caption>Дикая охота HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2310.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2311</channel_id>
+        <caption>Детский мир</caption>
+        <source></source>
+        <cover>qrc:/covers/2311.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2317</channel_id>
+        <caption>Festival 4K</caption>
+        <source></source>
+        <cover>qrc:/covers/2317.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2320</channel_id>
+        <caption>Babes TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2320.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2321</channel_id>
+        <caption>Eurosport Gold HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2321.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2324</channel_id>
+        <caption>Дайвинг.TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2324.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2325</channel_id>
+        <caption>Мультимузыка</caption>
+        <source></source>
+        <cover>qrc:/covers/2325.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2326</channel_id>
+        <caption>Blue Hustler 24</caption>
+        <source></source>
+        <cover>qrc:/covers/2326.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2338</channel_id>
+        <caption>Супер</caption>
+        <source></source>
+        <cover>qrc:/covers/2338.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2338</channel_id>
+        <caption>Супер HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2338.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2339</channel_id>
+        <caption>Тномер</caption>
+        <source></source>
+        <cover>qrc:/covers/2339.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2341</channel_id>
+        <caption>Точка отрыва</caption>
+        <source></source>
+        <cover>qrc:/covers/2341.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2348</channel_id>
+        <caption>Сериал Ultra HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2348.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2349</channel_id>
+        <caption>Ultra HD CINEMA</caption>
+        <source></source>
+        <cover>qrc:/covers/2349.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2349</channel_id>
+        <caption>Ultra HD Cinema (Zabava)</caption>
+        <source></source>
+        <cover>qrc:/covers/2349.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2351</channel_id>
+        <caption>М1</caption>
+        <source></source>
+        <cover>qrc:/covers/2351.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2351</channel_id>
+        <caption>M1 GLOBAL</caption>
+        <source></source>
+        <cover>qrc:/covers/2351.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2353</channel_id>
+        <caption>НТВ Хит</caption>
+        <source></source>
+        <cover>qrc:/covers/2353.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2355</channel_id>
+        <caption>Московский образовательный</caption>
+        <source></source>
+        <cover>qrc:/covers/2355.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2355</channel_id>
+        <caption>Московский образовательный ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2355.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2355</channel_id>
+        <caption>Мособр TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2355.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2355</channel_id>
+        <caption>Мособр TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2355.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2356</channel_id>
+        <caption>Foodman.club</caption>
+        <source></source>
+        <cover>qrc:/covers/2356.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2367</channel_id>
+        <caption>Жар Птица</caption>
+        <source></source>
+        <cover>qrc:/covers/2367.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2368</channel_id>
+        <caption>Motorsport.tv</caption>
+        <source></source>
+        <cover>qrc:/covers/2368.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2369</channel_id>
+        <caption>Russian Extreme TV ULTRA HD CINEMA</caption>
+        <source></source>
+        <cover>qrc:/covers/2369.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2383</channel_id>
+        <caption>СТС Kids</caption>
+        <source></source>
+        <cover>qrc:/covers/2383.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2383</channel_id>
+        <caption>СТС Kids HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2383.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2384</channel_id>
+        <caption>МАТЧ! Премьер</caption>
+        <source></source>
+        <cover>qrc:/covers/2384.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2386</channel_id>
+        <caption>Хабар 24</caption>
+        <source></source>
+        <cover>qrc:/covers/2386.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2386</channel_id>
+        <caption>Khabar24</caption>
+        <source></source>
+        <cover>qrc:/covers/2386.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2396</channel_id>
+        <caption>NANO TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2396.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2399</channel_id>
+        <caption>Eurosport 4K</caption>
+        <source></source>
+        <cover>qrc:/covers/2399.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2399</channel_id>
+        <caption>Eurosport 4K (Zabava)</caption>
+        <source></source>
+        <cover>qrc:/covers/2399.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2401</channel_id>
+        <caption>BOLT</caption>
+        <source></source>
+        <cover>qrc:/covers/2401.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2401</channel_id>
+        <caption>BOLT HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2401.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2404</channel_id>
+        <caption>360° Новости</caption>
+        <source></source>
+        <cover>qrc:/covers/2404.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2406</channel_id>
+        <caption>Rai 1</caption>
+        <source></source>
+        <cover>qrc:/covers/2406.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2407</channel_id>
+        <caption>Тайна</caption>
+        <source></source>
+        <cover>qrc:/covers/2407.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2411</channel_id>
+        <caption>TV BRICS</caption>
+        <source></source>
+        <cover>qrc:/covers/2411.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2416</channel_id>
+        <caption>Смайлик HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2416.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2416</channel_id>
+        <caption>Смайлик ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2416.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2420</channel_id>
+        <caption>Deutsche Welle</caption>
+        <source></source>
+        <cover>qrc:/covers/2420.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2420</channel_id>
+        <caption>Deutsche Welle (Rus)</caption>
+        <source></source>
+        <cover>qrc:/covers/2420.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2423</channel_id>
+        <caption>Советское кино</caption>
+        <source></source>
+        <cover>qrc:/covers/2423.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2424</channel_id>
+        <caption>Советские мультфильмы</caption>
+        <source></source>
+        <cover>qrc:/covers/2424.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2425</channel_id>
+        <caption>Вкусное TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2425.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2426</channel_id>
+        <caption>Сказки Зайки</caption>
+        <source></source>
+        <cover>qrc:/covers/2426.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2427</channel_id>
+        <caption>Романтичное HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2427.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2437</channel_id>
+        <caption>Мир вокруг HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2437.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2445</channel_id>
+        <caption>FAN</caption>
+        <source></source>
+        <cover>qrc:/covers/2445.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2446</channel_id>
+        <caption>NickToons</caption>
+        <source></source>
+        <cover>qrc:/covers/2446.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2447</channel_id>
+        <caption>JOY COOK</caption>
+        <source></source>
+        <cover>qrc:/covers/2447.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2450</channel_id>
+        <caption>Наша Тема</caption>
+        <source></source>
+        <cover>qrc:/covers/2450.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2450</channel_id>
+        <caption>Наша Тема HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2450.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2451</channel_id>
+        <caption>The World Live</caption>
+        <source></source>
+        <cover>qrc:/covers/2451.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2452</channel_id>
+        <caption>ViP Serial</caption>
+        <source></source>
+        <cover>qrc:/covers/2452.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2452</channel_id>
+        <caption>ViP Serial HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2452.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2456</channel_id>
+        <caption>NGC HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2456.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2457</channel_id>
+        <caption>Europa Plus TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2457.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2457</channel_id>
+        <caption>Европа плюс</caption>
+        <source></source>
+        <cover>qrc:/covers/2457.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2458</channel_id>
+        <caption>Мир Баскетбола</caption>
+        <source></source>
+        <cover>qrc:/covers/2458.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2463</channel_id>
+        <caption>О!Кино</caption>
+        <source></source>
+        <cover>qrc:/covers/2463.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2465</channel_id>
+        <caption>AIVA</caption>
+        <source></source>
+        <cover>qrc:/covers/2465.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2468</channel_id>
+        <caption>Бьюти.TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2468.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2470</channel_id>
+        <caption>МАТЧ! Страна</caption>
+        <source></source>
+        <cover>qrc:/covers/2470.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2486</channel_id>
+        <caption>SONGTV HD Россия</caption>
+        <source></source>
+        <cover>qrc:/covers/2486.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2486</channel_id>
+        <caption>SONGTV Russia</caption>
+        <source></source>
+        <cover>qrc:/covers/2486.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2487</channel_id>
+        <caption>Победа</caption>
+        <source></source>
+        <cover>qrc:/covers/2487.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2487</channel_id>
+        <caption>Победа</caption>
+        <source></source>
+        <cover>qrc:/covers/2487.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2507</channel_id>
+        <caption>КиноСат</caption>
+        <source></source>
+        <cover>qrc:/covers/2507.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2507</channel_id>
+        <caption>КиноSat</caption>
+        <source></source>
+        <cover>qrc:/covers/2507.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2519</channel_id>
+        <caption>Россия 24</caption>
+        <source></source>
+        <cover>qrc:/covers/2519.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2519</channel_id>
+        <caption>Россия 24 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2519.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2580</channel_id>
+        <caption>РЕН ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2580.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2613</channel_id>
+        <caption>РЖД HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2613.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2613</channel_id>
+        <caption>РЖД ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2613.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2615</channel_id>
+        <caption>Дикая рыбалка HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2615.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2616</channel_id>
+        <caption>Дикая охота</caption>
+        <source></source>
+        <cover>qrc:/covers/2616.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2622</channel_id>
+        <caption>НТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2622.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2669</channel_id>
+        <caption>Любимое SD</caption>
+        <source></source>
+        <cover>qrc:/covers/2669.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2672</channel_id>
+        <caption>МАТЧ! Премьер HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2672.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2674</channel_id>
+        <caption>TLC HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2674.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2675</channel_id>
+        <caption>Discovery HD Showcase</caption>
+        <source></source>
+        <cover>qrc:/covers/2675.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2675</channel_id>
+        <caption>Discovery Showcase HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2675.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2676</channel_id>
+        <caption>MTV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2676.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2676</channel_id>
+        <caption>MTV Россия HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2676.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2676</channel_id>
+        <caption>MTV HD Russian</caption>
+        <source></source>
+        <cover>qrc:/covers/2676.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2677</channel_id>
+        <caption>MTV European</caption>
+        <source></source>
+        <cover>qrc:/covers/2677.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2677</channel_id>
+        <caption>MTV HD (En)</caption>
+        <source></source>
+        <cover>qrc:/covers/2677.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2678</channel_id>
+        <caption>FOX HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2678.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2680</channel_id>
+        <caption>Матч! Игра HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2680.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2681</channel_id>
+        <caption>МАТЧ! Футбол 3 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2681.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2682</channel_id>
+        <caption>МАТЧ! HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2682.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2693</channel_id>
+        <caption>Al JaZeera</caption>
+        <source></source>
+        <cover>qrc:/covers/2693.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2698</channel_id>
+        <caption>МИР 24 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2698.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2701</channel_id>
+        <caption>Star Family</caption>
+        <source></source>
+        <cover>qrc:/covers/2701.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2701</channel_id>
+        <caption>Star family HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2701.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2702</channel_id>
+        <caption>Star Cinema</caption>
+        <source></source>
+        <cover>qrc:/covers/2702.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2702</channel_id>
+        <caption>Star cinema HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2702.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2702</channel_id>
+        <caption>Star Cinema HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2702.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2704</channel_id>
+        <caption>Точка отрыва HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2704.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2705</channel_id>
+        <caption>Русская ночь HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2705.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2706</channel_id>
+        <caption>Сериал</caption>
+        <source></source>
+        <cover>qrc:/covers/2706.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2711</channel_id>
+        <caption>TV1000 Русское кино HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2711.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2716</channel_id>
+        <caption>Amedia Hit HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2716.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2717</channel_id>
+        <caption>Amedia Premium</caption>
+        <source></source>
+        <cover>qrc:/covers/2717.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2721</channel_id>
+        <caption>Animaux</caption>
+        <source></source>
+        <cover>qrc:/covers/2721.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2724</channel_id>
+        <caption>Карапуз ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2724.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2726</channel_id>
+        <caption>Дорама</caption>
+        <source></source>
+        <cover>qrc:/covers/2726.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2726</channel_id>
+        <caption>Dorama</caption>
+        <source></source>
+        <cover>qrc:/covers/2726.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2727</channel_id>
+        <caption>MTV Dance</caption>
+        <source></source>
+        <cover>qrc:/covers/2727.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2728</channel_id>
+        <caption>MTV Hits</caption>
+        <source></source>
+        <cover>qrc:/covers/2728.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2729</channel_id>
+        <caption>MTV Rocks</caption>
+        <source></source>
+        <cover>qrc:/covers/2729.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2731</channel_id>
+        <caption>Russia Today HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2731.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2735</channel_id>
+        <caption>Viasat Explore HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2735.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2736</channel_id>
+        <caption>Viasat Explore Nordic</caption>
+        <source></source>
+        <cover>qrc:/covers/2736.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2737</channel_id>
+        <caption>RTVI</caption>
+        <source></source>
+        <cover>qrc:/covers/2737.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2737</channel_id>
+        <caption>RTVi Архив</caption>
+        <source></source>
+        <cover>qrc:/covers/2737.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2739</channel_id>
+        <caption>Кинозал 1</caption>
+        <source></source>
+        <cover>qrc:/covers/2739.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2739</channel_id>
+        <caption>КиноЗаказ 1</caption>
+        <source></source>
+        <cover>qrc:/covers/2739.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2740</channel_id>
+        <caption>Кинозал 2</caption>
+        <source></source>
+        <cover>qrc:/covers/2740.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2740</channel_id>
+        <caption>Виртуальный Кинозал HD 2</caption>
+        <source></source>
+        <cover>qrc:/covers/2740.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2741</channel_id>
+        <caption>Кинозал 3</caption>
+        <source></source>
+        <cover>qrc:/covers/2741.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2741</channel_id>
+        <caption>Виртуальный Кинозал HD 3</caption>
+        <source></source>
+        <cover>qrc:/covers/2741.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2742</channel_id>
+        <caption>Кинозал 4</caption>
+        <source></source>
+        <cover>qrc:/covers/2742.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2743</channel_id>
+        <caption>Кинозал 5</caption>
+        <source></source>
+        <cover>qrc:/covers/2743.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2744</channel_id>
+        <caption>Кинозал 6</caption>
+        <source></source>
+        <cover>qrc:/covers/2744.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2745</channel_id>
+        <caption>Кинозал 7</caption>
+        <source></source>
+        <cover>qrc:/covers/2745.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2746</channel_id>
+        <caption>Кинозал 8</caption>
+        <source></source>
+        <cover>qrc:/covers/2746.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2747</channel_id>
+        <caption>Кинозал 9</caption>
+        <source></source>
+        <cover>qrc:/covers/2747.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2748</channel_id>
+        <caption>Кинозал 10</caption>
+        <source></source>
+        <cover>qrc:/covers/2748.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2749</channel_id>
+        <caption>Кинозал 11</caption>
+        <source></source>
+        <cover>qrc:/covers/2749.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2750</channel_id>
+        <caption>Кинозал 12</caption>
+        <source></source>
+        <cover>qrc:/covers/2750.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2751</channel_id>
+        <caption>Еврокино HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2751.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2753</channel_id>
+        <caption>TRACE URBAN</caption>
+        <source></source>
+        <cover>qrc:/covers/2753.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2753</channel_id>
+        <caption>Trace Urban HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2753.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2755</channel_id>
+        <caption>Redlight</caption>
+        <source></source>
+        <cover>qrc:/covers/2755.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2756</channel_id>
+        <caption>Redlight HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2756.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2771</channel_id>
+        <caption>EuroSport 2 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2771.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2772</channel_id>
+        <caption>World Business Channel HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2772.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2775</channel_id>
+        <caption>FashionBox HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2775.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2777</channel_id>
+        <caption>A1</caption>
+        <source></source>
+        <cover>qrc:/covers/2777.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2777</channel_id>
+        <caption>А1</caption>
+        <source></source>
+        <cover>qrc:/covers/2777.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2794</channel_id>
+        <caption>KBS World HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2794.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2795</channel_id>
+        <caption>Penthouse</caption>
+        <source></source>
+        <cover>qrc:/covers/2795.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2797</channel_id>
+        <caption>Наш Киномир</caption>
+        <source></source>
+        <cover>qrc:/covers/2797.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2798</channel_id>
+        <caption>Русский Экстрим HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2798.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2802</channel_id>
+        <caption>Футбол HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2802.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2805</channel_id>
+        <caption>LifeNews HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2805.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2806</channel_id>
+        <caption>Наша сибирь HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2806.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2807</channel_id>
+        <caption>Морской HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2807.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2808</channel_id>
+        <caption>World Fashion</caption>
+        <source></source>
+        <cover>qrc:/covers/2808.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2810</channel_id>
+        <caption>Bollywood</caption>
+        <source></source>
+        <cover>qrc:/covers/2810.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2811</channel_id>
+        <caption>Сила ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/2811.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2820</channel_id>
+        <caption>Мужское кино HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2820.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2832</channel_id>
+        <caption>Dorcel TV</caption>
+        <source></source>
+        <cover>qrc:/covers/2832.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2844</channel_id>
+        <caption>M6 Suisse HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2844.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2854</channel_id>
+        <caption>Авто 24</caption>
+        <source></source>
+        <cover>qrc:/covers/2854.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2859</channel_id>
+        <caption>France 24 HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2859.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2860</channel_id>
+        <caption>Luxury HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2860.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2863</channel_id>
+        <caption>Киномикс HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2863.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2865</channel_id>
+        <caption>Travel XP HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2865.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2868</channel_id>
+        <caption>Fine Living HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2868.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2869</channel_id>
+        <caption>Кинопремьера HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2869.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2869</channel_id>
+        <caption>Кинопремиум HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2869.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2871</channel_id>
+        <caption>365 дней ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2871.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2873</channel_id>
+        <caption>Дом кино Премиум HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2873.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2874</channel_id>
+        <caption>Дом кино HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2874.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2875</channel_id>
+        <caption>Кинопоказ</caption>
+        <source></source>
+        <cover>qrc:/covers/2875.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2876</channel_id>
+        <caption>KINO24</caption>
+        <source></source>
+        <cover>qrc:/covers/2876.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2881</channel_id>
+        <caption>M1 Global HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2881.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2882</channel_id>
+        <caption>Motorsport.tv HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2882.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2893</channel_id>
+        <caption>Stingray iConcerts HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2893.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2894</channel_id>
+        <caption>FAN HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2894.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2919</channel_id>
+        <caption>Теледом HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2919.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2922</channel_id>
+        <caption>Fast BOX</caption>
+        <source></source>
+        <cover>qrc:/covers/2922.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2922</channel_id>
+        <caption>Fast FunBox</caption>
+        <source></source>
+        <cover>qrc:/covers/2922.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2976</channel_id>
+        <caption>Любимое</caption>
+        <source></source>
+        <cover>qrc:/covers/2976.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2977</channel_id>
+        <caption>Премиальное SD</caption>
+        <source></source>
+        <cover>qrc:/covers/2977.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2979</channel_id>
+        <caption>Остросюжетное SD</caption>
+        <source></source>
+        <cover>qrc:/covers/2979.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2981</channel_id>
+        <caption>Наше Крутое</caption>
+        <source></source>
+        <cover>qrc:/covers/2981.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2983</channel_id>
+        <caption>Наш Кинороман SD</caption>
+        <source></source>
+        <cover>qrc:/covers/2983.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2987</channel_id>
+        <caption>English Club HD</caption>
+        <source></source>
+        <cover>qrc:/covers/2987.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>2994</channel_id>
+        <caption>H1</caption>
+        <source></source>
+        <cover>qrc:/covers/2994.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3011</channel_id>
+        <caption>NHK World HD</caption>
+        <source></source>
+        <cover>qrc:/covers/3011.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3032</channel_id>
+        <caption>Под елкой HD</caption>
+        <source></source>
+        <cover>qrc:/covers/3032.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3108</channel_id>
+        <caption>Киноужас</caption>
+        <source></source>
+        <cover>qrc:/covers/3108.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3108</channel_id>
+        <caption>Киноужас HD</caption>
+        <source></source>
+        <cover>qrc:/covers/3108.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3111</channel_id>
+        <caption>Арсенал</caption>
+        <source></source>
+        <cover>qrc:/covers/3111.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3117</channel_id>
+        <caption>Love Nature</caption>
+        <source></source>
+        <cover>qrc:/covers/3117.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3117</channel_id>
+        <caption>LOVE NATURE (Zabava)</caption>
+        <source></source>
+        <cover>qrc:/covers/3117.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3118</channel_id>
+        <caption>КиноСезон</caption>
+        <source></source>
+        <cover>qrc:/covers/3118.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3123</channel_id>
+        <caption>CGTN</caption>
+        <source></source>
+        <cover>qrc:/covers/3123.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3137</channel_id>
+        <caption>Наш Кинопоказ</caption>
+        <source></source>
+        <cover>qrc:/covers/3137.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3138</channel_id>
+        <caption>Блокбастер</caption>
+        <source></source>
+        <cover>qrc:/covers/3138.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3139</channel_id>
+        <caption>Наше мужское</caption>
+        <source></source>
+        <cover>qrc:/covers/3139.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3140</channel_id>
+        <caption>Про любовь</caption>
+        <source></source>
+        <cover>qrc:/covers/3140.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3141</channel_id>
+        <caption>Хит</caption>
+        <source></source>
+        <cover>qrc:/covers/3141.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3142</channel_id>
+        <caption>Камеди</caption>
+        <source></source>
+        <cover>qrc:/covers/3142.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>3153</channel_id>
+        <caption>Trash</caption>
+        <source></source>
+        <cover>qrc:/covers/3153.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9000</channel_id>
+        <caption> ULTO</caption>
+        <source></source>
+        <cover>qrc:/covers/9000.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9001</channel_id>
+        <caption> Дума ТВ</caption>
+        <source></source>
+        <cover>qrc:/covers/9001.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9001</channel_id>
+        <caption> Дума ТВ HD</caption>
+        <source></source>
+        <cover>qrc:/covers/9001.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9002</channel_id>
+        <caption>Univer TV</caption>
+        <source></source>
+        <cover>qrc:/covers/9002.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9002</channel_id>
+        <caption>Univer TV HD</caption>
+        <source></source>
+        <cover>qrc:/covers/9002.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9003</channel_id>
+        <caption>SENTANA SPORT</caption>
+        <source></source>
+        <cover>qrc:/covers/9003.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9004</channel_id>
+        <caption>SENTANA SPORT+</caption>
+        <source></source>
+        <cover>qrc:/covers/9004.png</cover>
+    </ListElement>
+</ListModel>
+
