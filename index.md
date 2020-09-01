@@ -1,5 +1,5 @@
 ## Добро пожаловать на страницу [QTVPlayer](https://github.com/programstroy/QTVPlayer-release/edit/gh-pages/index.md)
-![Image](https://github.com/programstroy/QTVPlayer-release/blob/master/screenshot.jpg)
+
 Смотрите IP-телевидение вашего интернет-провайдера или ТВ из любого другого интернет-источника на телефоне, планшете или компьютере под управлением Windows/Linux.
 
 Возможности приложения:
@@ -35,14 +35,6 @@
 
 Уже готовый плейлист можно скачать [отсюда](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
 
- 
-**Bold** and _Italic_ and `Code` text
+### Остались вопросы?
 
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Разбирайтесь сами, или пишите programstroy@yandex.ru
