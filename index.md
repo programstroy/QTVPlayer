@@ -1,4 +1,4 @@
-## Добро пожаловать на страницу QTVPlayer
+## Добро пожаловать на страницу [QTVPlayer](https://github.com/programstroy/QTVPlayer-release/edit/gh-pages/index.md)
 
 Смотрите IP-телевидение вашего интернет-провайдера или ТВ из любого другого интернет-источника на телефоне, планшете или компьютере под управлением Windows/Linux.
 
@@ -14,11 +14,7 @@
 
 - Отсутствие рекламы :)
 
-Вы можете использовать исходный код по своему усмотрению, придерживаясь правил лицензии [GNU LESSER GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/lgpl-3.0.ru.html)
-
-You can use the [editor on GitHub](https://github.com/programstroy/QTVPlayer-release/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+При использовании исходного кода следует придерживаться лицензии [GNU LESSER GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/lgpl-3.0.ru.html)
 
 ### Структура формата плейлиста ChannelsList.xml
 ```markdown
@@ -40,31 +36,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Уже готовый плейлист можно скачать [отсюда](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
 
  
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/programstroy/QTVPlayer-release/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
