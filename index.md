@@ -18,11 +18,11 @@
 
 ### Структура формата плейлиста ChannelsList.xml
 ```markdown
-<ListElement>
-  <channel_id>850</channel_id>
-  <caption>Первый канал</caption>
-  <source>http://internet_path/streaming_playlist.m3u8</source>
-  <cover>qrc:/covers/850.png</cover>
+<**ListElement**>
+  <**channel_id**>850<**/channel_id**>
+  <**caption**>Первый канал<**/caption**>
+  <**source**>http://internet_path/streaming_playlist.m3u8<**/source**>
+  <**cover**>qrc:/covers/850.png<**/cover**>
 </ListElement>
 ```  
 **channel_id** - фиксированный номер канала (не менять!!!)
@@ -37,4 +37,4 @@
 
 ### Остались вопросы?
 
-Разбирайтесь сами, или пишите programstroy@yandex.ru
+Разбирайтесь сами, или пишите на почту yandex.ru
