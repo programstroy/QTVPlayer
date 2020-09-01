@@ -4,7 +4,7 @@
 
 Возможности приложения:
 
-- Поддержка плейлистов m3u и собственного xml
+- Поддержка плейлистов m3u и собственного формата [xml](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
 
 - Отображение каналов в виде бегущей строки
 
