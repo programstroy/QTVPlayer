@@ -1,5 +1,5 @@
 ## Добро пожаловать на страницу [QTVPlayer](https://github.com/programstroy/QTVPlayer-release/edit/gh-pages/index.md)
-
+![Image](https://github.com/programstroy/QTVPlayer-release/blob/master/screenshot.jpg)
 Смотрите IP-телевидение вашего интернет-провайдера или ТВ из любого другого интернет-источника на телефоне, планшете или компьютере под управлением Windows/Linux.
 
 Возможности приложения:
