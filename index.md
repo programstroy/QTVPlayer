@@ -26,9 +26,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <source>http://internet_path/streaming_playlist.m3u8</source>
   <cover>qrc:/covers/850.png</cover>
 </ListElement>
-```markdown
   
-  где:</p><p><b>&lt;channel_id&gt;</b> - фиксированный номер канала (не менять!!!)</p><p><b>&lt;caption&gt;</b> - наименование канала</p><p><b>&lt;source&gt;</b> - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)</p><p><b>&lt;cover&gt;</b> - логотип (предустановлен 521 канал)</p><p>Приложение не содержит ссылок на интелектуальную собственность третьих лиц.</p><p>Ссылки m3u8 необходимо подставить в текущий плейлист вручную</p>
+channel_id - фиксированный номер канала (не менять!!!)
+
+caption - наименование канала
+
+source - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)</p><p><b>&lt;cover&gt;</b> - логотип (предустановлен 521 канал)</p><p>Приложение не содержит ссылок на интелектуальную собственность третьих лиц.</p><p>Ссылки m3u8 необходимо подставить в текущий плейлист вручную</p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
