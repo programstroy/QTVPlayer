@@ -1,2 +1,2 @@
 # QTVPlayer
-free cross-platform app for IPTV media
+кросс-платформенный IPTV плеер
