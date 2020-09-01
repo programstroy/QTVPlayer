@@ -8,6 +8,8 @@
 
 - Отображение каналов в виде бегущей строки
 
+- Удаление дублируемых или не работающих каналов
+
 - Автоматическая поддержка телепрограммы
 
 - Отсутствие рекламы :)
@@ -27,11 +29,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <cover>qrc:/covers/850.png</cover>
 </ListElement>
 ```  
-channel_id - фиксированный номер канала (не менять!!!)
-caption - наименование канала
-source - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)
-cover - логотип (qrc:/covers/NNN.png, где NNN - channel_id)
+**channel_id** - фиксированный номер канала (не менять!!!)
 
+**caption** - наименование канала
+
+**source** - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)
+
+**cover** - логотип (qrc:/covers/NNN.png, где NNN - **channel_id**)
+
+Уже готовый плейлист можно скачать [отсюда](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
+
+ 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
