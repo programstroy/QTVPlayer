@@ -18,7 +18,11 @@ You can use the [editor on GitHub](https://github.com/programstroy/QTVPlayer-rel
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Структура плейлиста ChannelsList.xml
+```markdown
+<ListElement>
+  <channel_id></channel_id>
+  &gt;</b></p><p>&nbsp;&nbsp;<b>&lt;caption&gt;</b>Первый<b>&lt;/caption&gt;</b></p><p>&nbsp;&nbsp;<b>&lt;source&gt;</b>http://internet_path/streaming_playlist.m3u8<b>&lt;/source&gt;</b></p><p>&nbsp;&nbsp;<b>&lt;cover&gt;</b>qrc:/covers/850.png<b>&lt;/cover&gt;</b></p><p><b>&lt;/ListElement&gt;</b></p><p>где:</p><p><b>&lt;channel_id&gt;</b> - фиксированный номер канала (не менять!!!)</p><p><b>&lt;caption&gt;</b> - наименование канала</p><p><b>&lt;source&gt;</b> - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)</p><p><b>&lt;cover&gt;</b> - логотип (предустановлен 521 канал)</p><p>Приложение не содержит ссылок на интелектуальную собственность третьих лиц.</p><p>Ссылки m3u8 необходимо подставить в текущий плейлист вручную</p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
