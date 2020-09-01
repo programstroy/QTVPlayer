@@ -18,11 +18,11 @@
 
 ### Структура формата плейлиста ChannelsList.xml
 ```markdown
-<**ListElement**>
-  <**channel_id**>850<**/channel_id**>
-  <**caption**>Первый канал<**/caption**>
-  <**source**>http://internet_path/streaming_playlist.m3u8<**/source**>
-  <**cover**>qrc:/covers/850.png<**/cover**>
+<ListElement>
+  <channel_id>850</channel_id>
+  <caption>Первый канал</caption>
+  <source>http://internet_path/streaming_playlist.m3u8</source>
+  <cover>qrc:/covers/850.png</cover>
 </ListElement>
 ```  
 **channel_id** - фиксированный номер канала (не менять!!!)
@@ -33,7 +33,7 @@
 
 **cover** - логотип (qrc:/covers/NNN.png, где NNN - **channel_id**)
 
-Уже готовый плейлист можно скачать [отсюда](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
+Уже **готовый плейлист** можно скачать [**здесь**](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
 
 ### Остались вопросы?
 
