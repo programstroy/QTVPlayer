@@ -1,11 +1,5 @@
 ## Добро пожаловать на страницу [QTVPlayer](https://github.com/programstroy/QTVPlayer-release/edit/gh-pages/index.md)
 
-picture: !!binary |
- R0lGODlhDAAMAIQAAP//9/X
- 17unp5WZmZgAAAOfn515eXv
- Pz7Y6OjuDg4J+fn5OTk6enp
- 56enmleECcgggoBADs=
-
 Смотрите IP-телевидение вашего интернет-провайдера или ТВ из любого другого интернет-источника на телефоне, планшете или компьютере под управлением Windows/Linux.
 
 Возможности приложения:
@@ -25,7 +19,7 @@ picture: !!binary |
 ### Структура формата плейлиста ChannelsList.xml
 ```markdown
 <ListElement>
-  <channel_id>850</channel_id>
+  "<channel_id>850</channel_id>"
   <caption>Первый канал</caption>
   <source>http://internet_path/streaming_playlist.m3u8</source>
   <cover>qrc:/covers/850.png</cover>
