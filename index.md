@@ -17,7 +17,7 @@
 При использовании исходного кода следует придерживаться лицензии [GNU LESSER GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/lgpl-3.0.ru.html)
 
 ### Схема управления плеером
-![Branching](https://github.com/programstroy/QTVPlayer-release/blob/master/screenshot.png)
+![Branching](https://raw.githubusercontent.com/programstroy/QTVPlayer-release/gh-pages/screenshot.jpg)
 
 ### Структура формата плейлиста ChannelsList.xml
 ```markdown
