@@ -3,4 +3,4 @@ description: кросс-платформенный IPTV медиаплеер
 show_downloads: true
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://github.com/programstroy/QTVPlayer-release/tree/master/playlist/ChannelsList.user.xml
+  zip_url: https://github.com/programstroy/QTVPlayer-release/blob/master/playlist/ChannelsList.user.zip
