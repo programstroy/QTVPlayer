@@ -19,7 +19,7 @@
 ### Схема управления плеером
 ![screenshot](https://raw.githubusercontent.com/programstroy/QTVPlayer-release/gh-pages/snapshot.png)
 
-### Структура формата плейлиста ChannelsList.xml
+### Структура формата плейлиста [ChannelsList.xml](https://github.com/programstroy/QTVPlayer-release/tree/master/xml)
 ```markdown
 <ListElement>
   <channel_id>850</channel_id>
@@ -35,8 +35,6 @@
 **source** - ссылка m3u8 для просмотра канала (из любого плейлиста IPTV M3U)
 
 **cover** - логотип (qrc:/covers/NNN.png, где NNN - **channel_id**)
-
-Уже **готовый плейлист** можно скачать [**здесь**](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
 
 ### Остались вопросы, предложения, замечания?
 
