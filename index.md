@@ -4,7 +4,7 @@
 
 Возможности приложения:
 
-- Поддержка плейлистов m3u и собственного формата [xml](https://github.com/programstroy/QTVPlayer-release/tree/master/playlist)
+- Поддержка плейлистов m3u и собственного формата [xml](https://github.com/programstroy/QTVPlayer-release/blob/master/xml)
 
 - Отображение каналов в виде бегущей строки
 
@@ -19,7 +19,7 @@
 ### Схема управления плеером
 ![screenshot](https://raw.githubusercontent.com/programstroy/QTVPlayer-release/gh-pages/snapshot.png)
 
-### Структура формата плейлиста [ChannelsList.xml](https://github.com/programstroy/QTVPlayer-release/tree/master/xml)
+### Структура формата плейлиста [playlist.xml](https://github.com/programstroy/QTVPlayer-release/blob/master/xml)
 ```markdown
 <ListElement>
   <channel_id>850</channel_id>
