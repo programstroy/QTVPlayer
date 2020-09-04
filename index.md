@@ -4,15 +4,17 @@
 
 Возможности приложения:
 
-- Поддержка плейлистов m3u и собственного формата [xml](https://github.com/programstroy/QTVPlayer-release/blob/master/xml)
+- поддержка плейлистов m3u и собственного формата [xml](https://github.com/programstroy/QTVPlayer-release/blob/master/xml)
 
-- Отображение каналов в виде бегущей строки
+- удобное отображение каналов
 
-- Удаление дублируемых или не работающих каналов
+- удаление дублируемых или не работающих каналов
 
-- Автоматическая поддержка телепрограммы
+- поддержка телепрограммы
 
-- Отсутствие рекламы :)
+- отсутствие рекламы
+
+- исходный код доступен на [странице приложения](https://github.com/programstroy/QTVPlayer-release/tree/master/src)
 
 При использовании исходного кода следует придерживаться лицензии [GNU LESSER GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/lgpl-3.0.ru.html)
 
