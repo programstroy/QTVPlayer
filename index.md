@@ -14,8 +14,6 @@
 
 - отсутствие рекламы
 
-- исходный код доступен на [странице приложения](https://github.com/programstroy/QTVPlayer-release/tree/master/src)
-
 При использовании исходного кода следует придерживаться лицензии [GNU LESSER GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/lgpl-3.0.ru.html)
 
 ### Схема управления плеером
