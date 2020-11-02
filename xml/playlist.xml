@@ -93,7 +93,7 @@
     <ListElement>
         <channel_id>761</channel_id>
         <caption> Здоровье ТВ</caption>
-        <source></source>
+        <source>http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8</source>
         <cover>qrc:/covers/761.png</cover>
     </ListElement>
     <ListElement>
@@ -123,7 +123,7 @@
     <ListElement>
         <channel_id>775</channel_id>
         <caption>TLC</caption>
-        <source></source>
+        <source>https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8</source>
         <cover>qrc:/covers/775.png</cover>
     </ListElement>
     <ListElement>
@@ -159,7 +159,7 @@
     <ListElement>
         <channel_id>787</channel_id>
         <caption>TV1000 Action HD</caption>
-        <source>http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/787.png</cover>
     </ListElement>
     <ListElement>
@@ -171,7 +171,7 @@
     <ListElement>
         <channel_id>796</channel_id>
         <caption>TV1000 HD</caption>
-        <source>http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8</source>
+        <source>http://195.191.208.78:8080/tv1000hd/index.m3u8</source>
         <cover>qrc:/covers/796.png</cover>
     </ListElement>
     <ListElement>
@@ -327,7 +327,7 @@
     <ListElement>
         <channel_id>904</channel_id>
         <caption>World Fashion channel</caption>
-        <source>http://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v3a1/index.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/904.png</cover>
     </ListElement>
     <ListElement>
@@ -411,7 +411,7 @@
     <ListElement>
         <channel_id>945</channel_id>
         <caption>Fox Life HD</caption>
-        <source>http://live-ng-01.more.tv/hls/Fox_Life_HD/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/945.png</cover>
     </ListElement>
     <ListElement>
@@ -423,7 +423,7 @@
     <ListElement>
         <channel_id>948</channel_id>
         <caption>ТВ Центр</caption>
-        <source>http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8</source>
+        <source>http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2</source>
         <cover>qrc:/covers/948.png</cover>
     </ListElement>
     <ListElement>
@@ -753,7 +753,7 @@
     <ListElement>
         <channel_id>1101</channel_id>
         <caption>Discovery HD</caption>
-        <source>http://live-ng-01.more.tv/hls/Discovery_HD/index_0.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/1101.png</cover>
     </ListElement>
     <ListElement>
@@ -1341,7 +1341,7 @@
     <ListElement>
         <channel_id>1362</channel_id>
         <caption>Viasat Nature HD</caption>
-        <source>http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/1362.png</cover>
     </ListElement>
     <ListElement>
@@ -1353,7 +1353,7 @@
     <ListElement>
         <channel_id>1367</channel_id>
         <caption>Русский бестселлер</caption>
-        <source></source>
+        <source>http://182.73.122.74:10005/bysid/420</source>
         <cover>qrc:/covers/1367.png</cover>
     </ListElement>
     <ListElement>
@@ -1521,7 +1521,7 @@
     <ListElement>
         <channel_id>1479</channel_id>
         <caption>ViP Megahit HD</caption>
-        <source>http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8</source>
+        <source>http://188.35.9.11:2016</source>
         <cover>qrc:/covers/1479.png</cover>
     </ListElement>
     <ListElement>
@@ -1545,7 +1545,7 @@
     <ListElement>
         <channel_id>1516</channel_id>
         <caption>Boomerang</caption>
-        <source></source>
+        <source>http://27.254.130.56:80/live01/ch18.m3u8</source>
         <cover>qrc:/covers/1516.png</cover>
     </ListElement>
     <ListElement>
@@ -1557,7 +1557,7 @@
     <ListElement>
         <channel_id>1524</channel_id>
         <caption>ViP Premiere HD</caption>
-        <source>http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/1524.png</cover>
     </ListElement>
     <ListElement>
@@ -1641,7 +1641,7 @@
     <ListElement>
         <channel_id>1598</channel_id>
         <caption>ViP Comedy HD</caption>
-        <source>http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/1598.png</cover>
     </ListElement>
     <ListElement>
@@ -1911,13 +1911,13 @@
     <ListElement>
         <channel_id>1741</channel_id>
         <caption>Остросюжетное HD</caption>
-        <source></source>
+        <source>http://188.35.9.11:2015</source>
         <cover>qrc:/covers/1741.png</cover>
     </ListElement>
     <ListElement>
         <channel_id>1744</channel_id>
         <caption>Премиальное HD</caption>
-        <source></source>
+        <source>http://188.35.9.26:5050/001</source>
         <cover>qrc:/covers/1744.png</cover>
     </ListElement>
     <ListElement>
@@ -1977,7 +1977,7 @@
     <ListElement>
         <channel_id>1794</channel_id>
         <caption>Русский Детектив</caption>
-        <source></source>
+        <source>http://182.73.122.74:10005/bysid/416</source>
         <cover>qrc:/covers/1794.png</cover>
     </ListElement>
     <ListElement>
@@ -1995,7 +1995,7 @@
     <ListElement>
         <channel_id>1800</channel_id>
         <caption>СТС Love</caption>
-        <source></source>
+        <source>https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8</source>
         <cover>qrc:/covers/1800.png</cover>
     </ListElement>
     <ListElement>
@@ -2337,7 +2337,7 @@
     <ListElement>
         <channel_id>2044</channel_id>
         <caption>Мужское кино</caption>
-        <source></source>
+        <source>https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8</source>
         <cover>qrc:/covers/2044.png</cover>
     </ListElement>
     <ListElement>
@@ -2631,7 +2631,7 @@
     <ListElement>
         <channel_id>2224</channel_id>
         <caption>O!</caption>
-        <source></source>
+        <source>https://sc.id-tv.kz/o_34_35.m3u8</source>
         <cover>qrc:/covers/2224.png</cover>
     </ListElement>
     <ListElement>
@@ -3069,7 +3069,7 @@
     <ListElement>
         <channel_id>2386</channel_id>
         <caption>Хабар 24</caption>
-        <source></source>
+        <source>https://sc.id-tv.kz/Khabar_24_38_39.m3u8</source>
         <cover>qrc:/covers/2386.png</cover>
     </ListElement>
     <ListElement>
@@ -3237,7 +3237,7 @@
     <ListElement>
         <channel_id>2452</channel_id>
         <caption>ViP Serial HD</caption>
-        <source>http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/2452.png</cover>
     </ListElement>
     <ListElement>
@@ -3303,7 +3303,7 @@
     <ListElement>
         <channel_id>2487</channel_id>
         <caption>Победа</caption>
-        <source></source>
+        <source>http://ott-cdn.ucom.am/s47/04.m3u8</source>
         <cover>qrc:/covers/2487.png</cover>
     </ListElement>
     <ListElement>
@@ -3585,7 +3585,7 @@
     <ListElement>
         <channel_id>2735</channel_id>
         <caption>Viasat Explore HD</caption>
-        <source>http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8</source>
+        <source></source>
         <cover>qrc:/covers/2735.png</cover>
     </ListElement>
     <ListElement>
@@ -3897,7 +3897,7 @@
     <ListElement>
         <channel_id>2873</channel_id>
         <caption>Дом кино Премиум HD</caption>
-        <source></source>
+        <source>https://sc.id-tv.kz/domkino_hd_38_39.m3u8</source>
         <cover>qrc:/covers/2873.png</cover>
     </ListElement>
     <ListElement>
@@ -4139,5 +4139,29 @@
         <caption>SENTANA SPORT+</caption>
         <source>http://ott-cdn.ucom.am/s82/04.m3u8</source>
         <cover>qrc:/covers/9004.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9999</channel_id>
+        <caption> Беларусь 4 (Витебск)</caption>
+        <source>http://95.46.208.8:26258/belarus4</source>
+        <cover>qrc:/covers/9999.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9999</channel_id>
+        <caption> СТС International</caption>
+        <source>https://sc.id-tv.kz/STS_38_39.m3u8</source>
+        <cover>qrc:/covers/9999.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9999</channel_id>
+        <caption> Рен ТВ International</caption>
+        <source>https://sc.id-tv.kz/RenTV_38_39.m3u8</source>
+        <cover>qrc:/covers/9999.png</cover>
+    </ListElement>
+    <ListElement>
+        <channel_id>9999</channel_id>
+        <caption> Кино 1</caption>
+        <source>http://v2.catcast.tv/content/38617/index.m3u8</source>
+        <cover>qrc:/covers/9999.png</cover>
     </ListElement>
 </ListModel>
